@@ -1,1 +1,1 @@
-Projetos modelo CRUD utilizando FastAPI | POST | GET 
+Projeto CRUD utilizando FastAPI | POST | GET 
